@@ -1,0 +1,6 @@
+{
+  "name": "মা ফ্লাওয়ার মিল - Flour Mill Management",
+  "description": "মা ফ্লাওয়ার মিল (ঘোড়াধাপহাট, বগুড়া) এর সম্পূর্ণ ড্যাশবোর্ড ও হিসাব ব্যবস্থাপনা সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
